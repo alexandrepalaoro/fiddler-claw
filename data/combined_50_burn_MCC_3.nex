@@ -1,0 +1,111 @@
+#NEXUS
+[R-package PHYTOOLS, Thu Sep  4 13:34:15 2025]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 49;
+	TAXLABELS
+		Afruca_tangeri
+		Austruca_annulipes
+		Austruca_bengali
+		Austruca_lactea
+		Austruca_mjoebergi
+		Austruca_perplexa
+		Austruca_sindensis
+		Gelasimus_hesperiae
+		Gelasimus_tetragonon
+		Gelasimus_vocans
+		Gelasimus_vomeris
+		Leptuca_beebei
+		Leptuca_crenulata
+		Leptuca_cumulanta
+		Leptuca_deichmanni
+		Leptuca_latimanus
+		Leptuca_leptodactyla
+		Leptuca_panacea
+		Leptuca_pugilator
+		Leptuca_saltitanta
+		Leptuca_speciosa
+		Leptuca_stenodactylus
+		Leptuca_terpsichores
+		Leptuca_thayeri
+		Leptuca_uruguayensis
+		Minuca_minax
+		Minuca_pugnax
+		Minuca_rapax
+		Minuca_vocator
+		Paraleptuca_chlorophthalmus
+		Paraleptuca_crassipes
+		Petruca_panamensis
+		Tubuca_arcuata
+		Tubuca_bellator
+		Tubuca_capricornis
+		Tubuca_coarctata
+		Tubuca_elegans
+		Tubuca_flammula
+		Tubuca_longidigitum
+		Tubuca_paradussumieri
+		Tubuca_polita
+		Tubuca_rhizophorae
+		Tubuca_rosea
+		Tubuca_signata
+		Uca_maracoani
+		Uca_ornata
+		Uca_princeps
+		Uca_stylifera
+		Xeruca_formosensis
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Afruca_tangeri,
+		2	Austruca_annulipes,
+		3	Austruca_bengali,
+		4	Austruca_lactea,
+		5	Austruca_mjoebergi,
+		6	Austruca_perplexa,
+		7	Austruca_sindensis,
+		8	Gelasimus_hesperiae,
+		9	Gelasimus_tetragonon,
+		10	Gelasimus_vocans,
+		11	Gelasimus_vomeris,
+		12	Leptuca_beebei,
+		13	Leptuca_crenulata,
+		14	Leptuca_cumulanta,
+		15	Leptuca_deichmanni,
+		16	Leptuca_latimanus,
+		17	Leptuca_leptodactyla,
+		18	Leptuca_panacea,
+		19	Leptuca_pugilator,
+		20	Leptuca_saltitanta,
+		21	Leptuca_speciosa,
+		22	Leptuca_stenodactylus,
+		23	Leptuca_terpsichores,
+		24	Leptuca_thayeri,
+		25	Leptuca_uruguayensis,
+		26	Minuca_minax,
+		27	Minuca_pugnax,
+		28	Minuca_rapax,
+		29	Minuca_vocator,
+		30	Paraleptuca_chlorophthalmus,
+		31	Paraleptuca_crassipes,
+		32	Petruca_panamensis,
+		33	Tubuca_arcuata,
+		34	Tubuca_bellator,
+		35	Tubuca_capricornis,
+		36	Tubuca_coarctata,
+		37	Tubuca_elegans,
+		38	Tubuca_flammula,
+		39	Tubuca_longidigitum,
+		40	Tubuca_paradussumieri,
+		41	Tubuca_polita,
+		42	Tubuca_rhizophorae,
+		43	Tubuca_rosea,
+		44	Tubuca_signata,
+		45	Uca_maracoani,
+		46	Uca_ornata,
+		47	Uca_princeps,
+		48	Uca_stylifera,
+		49	Xeruca_formosensis
+	;
+	TREE * UNTITLED = [&R] ((1:34.54942082,((45:8.3933596,46:8.393359606):8.3933596,(47:13.58989424,48:13.58989424):3.19682496):17.76270162):9.186796575,((((((2:15.99703148,5:15.99703148):6.23087241,(4:14.5976552,6:14.5976552):7.630248689):3.882032664,3:26.10993655):1.833831133,7:27.94376769):4.041041261,((((8:2.300656725,(10:0.682967609,11:0.682967609):1.617689116):11.58343073,9:13.88408745):12.66247555,(30:6.195255822,31:6.195255822):20.35130718):1.593740886,((((((33:10.82039446,(36:6.334530084,38:6.334530084):4.485864378):3.716205772,(35:4.375132878,40:4.375132878):10.16146736):0.957119316,((34:9.282763151,44:9.282763151):3.974067289,(37:12.16625316,(39:0.4244584238,41:0.4244584238):11.74179474):1.090577277):2.236889111):0.7797000051,42:16.27341956):0.8803177493,43:17.1537373):4.685694982,49:21.83943229):6.300871602):3.84450506):3.337187277,((((((((12:4.089699603,22:4.089699603):11.58615773,23:15.67585734):2.756050573,(((14:11.88143831,15:11.88143831):2.48503964,(21:7.183238975,20:7.183238982):7.183238975):2.156426044,24:16.522904):1.909003913):3.207289201,(17:13.52341542,25:13.52341542):8.115781689):0.8915646455,16:22.53076176):0.8915646455,13:23.4223264):1.783129291,((18:3.833608973,19:3.833608973):16.23830754,(((26:5.399876786,27:5.399876786):0.8843703569,28:6.284247143):4.188568586,29:10.47281573):9.59910078):5.133539183):3.382562443,32:28.58801814):6.733978092):8.414221169):0;
+END;

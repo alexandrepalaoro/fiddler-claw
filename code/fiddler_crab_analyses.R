@@ -507,7 +507,7 @@ uca.full = read.csv("D:/OneDrive/Orientados/Mestrado - Jonatas/Mestrado/new_pape
 
 uca.mate.full = read.csv("D:/OneDrive/Orientados/Mestrado - Jonatas/Mestrado/new_paper/claw.evol/data/mating_short_all_spp.csv", h = T, sep = ';')
 
-phy2 = read.nexus("D:/OneDrive/Orientados/Mestrado - Jonatas/Mestrado/new_paper/claw.evol/data/combined_50_burn_MCC_2.nex")
+phy2 = read.nexus("D:/OneDrive/Orientados/Mestrado - Jonatas/Mestrado/new_paper/claw.evol/data/combined_50_burn_MCC_3.nex")
 
 uca.mate.full = uca.mate.full %>% arrange (sp)
 
