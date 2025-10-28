@@ -2,7 +2,7 @@
 
 Authors: Cristian L. Klunk, Jônatas J. de Florentino, Daniel S. Caetano, Michael S. Rosenberg & Alexandre V. Palaoro <br>
 ---
-Published on Evolution, DOI: 10.1093/evolut/qpaf217 <br>
+
 Contact about code and analyses: alexandre.palaoro@gmail.com
 ---
 
