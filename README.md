@@ -6,7 +6,7 @@ Authors: Cristian L. Klunk, Jônatas J. de Florentino, Daniel S. Caetano, Michae
 Contact about code and analyses: alexandre.palaoro@gmail.com
 ---
 
-If you use any of our code or data, please cite the following paper: https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpaf217/8286919 <br>
+This paper has been published on Evolution. If you use any of our code or data, please cite the following paper: https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpaf217/8286919 <br>
 
 ### This readme has been divided in three parts. First, we will talk about file structure, then the code, the dataset.
 
