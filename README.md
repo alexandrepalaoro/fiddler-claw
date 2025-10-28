@@ -1,5 +1,6 @@
 # Allometric constraint and the modulation of weapon evolution by mating system in fiddler crabs
 Authors: Cristian L. Klunk, Jônatas J. de Florentino, Daniel S. Caetano, Michael S. Rosenberg & Alexandre V. Palaoro <br>
+Published on Evolution, DOI: 10.1093/evolut/qpaf217
 Contact about code and analyses: alexandre.palaoro@gmail.com
 ---
 
