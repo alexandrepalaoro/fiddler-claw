@@ -30,7 +30,7 @@ the paper:
 Note that `code/RateMatrixFunctions.R` was adapted from Slater & Friscia (2019)
 and carries that work's original terms.
 
-
+---
 ### This readme has been divided in three parts. First, we will talk about file structure, then the code, the dataset.
 
 ##### File structure:
