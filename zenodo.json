@@ -1,0 +1,60 @@
+{
+  "title": "Code and data for: Allometric constraints and the modulation of weapon evolution by mating system in fiddler crabs",
+  "description": "<p>Data and R code to reproduce all analyses and figures in Klunk, Florentino, Caetano, Rosenberg &amp; Palaoro (2026), <em>Evolution</em> 80(1): 202&ndash;215, <a href=\"https://doi.org/10.1093/evolut/qpaf217\">doi:10.1093/evolut/qpaf217</a>.</p><p>The study examines major claw evolution in male fiddler crabs, comparing species in which males defend mating burrows against species in which males mate outside their own burrows. The repository contains linear morphometric measurements of claws and carapaces, mating-system classifications, the phylogenetic trees used, and the R scripts and R Markdown documents implementing the evolutionary rate matrix, phylogenetic regression, and ancestral state reconstruction analyses.</p><p>Code is released under the MIT License; data files are released under CC0-1.0. See the README for the full file structure, variable definitions, and instructions for reproducing the analyses.</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Klunk, Cristian L.",
+      "affiliation": "Technische Universität Darmstadt, Darmstadt, Germany",
+      "orcid": "0000-0000-0000-0000"
+    },
+    {
+      "name": "Florentino, Jônatas J.",
+      "affiliation": "Universidade de São Paulo, São Paulo, Brazil",
+      "orcid": "0000-0000-0000-0000"
+    },
+    {
+      "name": "Caetano, Daniel S.",
+      "affiliation": "Towson University, Towson, MD, United States",
+      "orcid": "0000-0000-0000-0000"
+    },
+    {
+      "name": "Rosenberg, Michael S.",
+      "affiliation": "Virginia Commonwealth University, Richmond, VA, United States",
+      "orcid": "0000-0000-0000-0000"
+    },
+    {
+      "name": "Palaoro, Alexandre V.",
+      "affiliation": "Universidade Federal do Paraná, Curitiba, Brazil",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "keywords": [
+    "sexual selection",
+    "animal weapons",
+    "static allometry",
+    "mating system",
+    "fiddler crabs",
+    "Ocypodidae",
+    "comparative methods",
+    "evolutionary rate matrix",
+    "phylogenetic comparative analysis"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1093/evolut/qpaf217",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://github.com/alexandrepalaoro/fiddler-claw",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Ancillary functions in RateMatrixFunctions.R were adapted from Slater & Friscia (2019, Evolution 73:524-539)."
+}
