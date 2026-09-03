@@ -5,6 +5,7 @@ Authors: Cristian L. Klunk, Jônatas J. de Florentino, Daniel S. Caetano, Michae
 
 Contact about code and analyses: alexandre.palaoro@gmail.com
 ---
+[![DOI](https://zenodo.org/badge/1044990891.svg)](https://doi.org/10.5281/zenodo.22285721)
 
 This paper has been published on Evolution: https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpaf217/8286919 <br>
 
@@ -132,4 +133,20 @@ Packages used: <br>
 
 ## Sharing/access Information
 
-The file structure and files can be seen and downloaded from: <br>
+This repository is permanently archived on Zenodo:
+
+**https://doi.org/10.5281/zenodo.22285721**
+
+The Zenodo record is a frozen snapshot of the code and data as they were at
+publication. Use it if you want the exact state that produced the published
+results. Use the GitHub repository (https://github.com/alexandrepalaoro/fiddler-claw)
+if you want the current version, which may include later corrections.
+
+To cite the archived code and data specifically:
+
+> Klunk, C. L., Florentino, J. J., Caetano, D. S., Rosenberg, M. S., & Palaoro,
+> A. V. (2026). *Code and data for: Allometric constraints and the modulation of
+> weapon evolution by mating system in fiddler crabs* [Software]. Zenodo.
+> https://doi.org/10.5281/zenodo.22285721
+
+In most cases you should cite the paper instead — see the License section above.
