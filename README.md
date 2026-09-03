@@ -1,4 +1,4 @@
-# Allometric constraint and the modulation of weapon evolution by mating system in fiddler crabs
+# Allometric constraints and the modulation of weapon evolution by mating system in fiddler crabs
 
 Authors: Cristian L. Klunk, Jônatas J. de Florentino, Daniel S. Caetano, Michael S. Rosenberg & Alexandre V. Palaoro <br>
 ---
@@ -6,7 +6,30 @@ Authors: Cristian L. Klunk, Jônatas J. de Florentino, Daniel S. Caetano, Michae
 Contact about code and analyses: alexandre.palaoro@gmail.com
 ---
 
-This paper has been published on Evolution. If you use any of our code or data, please cite the following paper: https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpaf217/8286919 <br>
+This paper has been published on Evolution: https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpaf217/8286919 <br>
+
+## License
+
+This repository uses two licenses:
+
+- **Code** — everything in `code/`, plus `Fiddler-claw-evol.Rmd` and
+  `Fiddler-claw-evol.html`, is released under the **MIT License**
+  (see [`LICENSE`](LICENSE)).
+- **Data** — everything in `data/` is released under
+  **CC0-1.0** (see [`LICENSE-data`](LICENSE-data)), placing it in the
+  public domain.
+
+You are free to reuse both without asking permission. If you do, please cite
+the paper:
+
+> Klunk, C. L., Florentino, J. J., Caetano, D. S., Rosenberg, M. S., & Palaoro,
+> A. V. (2026). Allometric constraints and the modulation of weapon evolution
+> by mating system in fiddler crabs. *Evolution*, 80(1), 202–215.
+> https://doi.org/10.1093/evolut/qpaf217
+
+Note that `code/RateMatrixFunctions.R` was adapted from Slater & Friscia (2019)
+and carries that work's original terms.
+
 
 ### This readme has been divided in three parts. First, we will talk about file structure, then the code, the dataset.
 
@@ -106,6 +129,7 @@ Packages used: <br>
 - phytools(v.2.4-4) <br>
 - maps(v.3.4.3) <br>
 - ape(v.5.8-1) <br>
+
 ## Sharing/access Information
 
 The file structure and files can be seen and downloaded from: <br>
