@@ -1,32 +1,34 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors: "Code and data for: Allometric constraints and the modulation of weapon evolution by mating system in fiddler crabs"
+type: "software"
   - family-names: Klunk
-    given-names: Cristian L
+    given-names: Cristian L.
   - family-names: Florentino
-    given-names: Jonatas J
+    given-names: Jonatas J.
   - family-names: Caetano
-    given-names: Daniel S
+    given-names: Daniel S.
   - family-names: Rosenberg
-    given-names: Michael S
+    given-names: Michael S.
   - family-names: Palaoro
-    given-names: Alexandre V
-license: MIT, CC0
+    given-names: Alexandre V.
+license: MIT, CC0-1.0
 repository-code: "https://github.com/alexandrepalaoro/fiddler-claw"
 preferred-citation:
   type: article
   title: "Allometric constraints and the modulation of weapon evolution by mating system in fiddler crabs"
   authors:
   - family-names: Klunk
-    given-names: Cristian L
+    given-names: Cristian L.
   - family-names: Florentino
-    given-names: Jonatas J
+    given-names: Jonatas J.
   - family-names: Caetano
-    given-names: Daniel S
+    given-names: Daniel S.
   - family-names: Rosenberg
-    given-names: Michael S
+    given-names: Michael S.
   - family-names: Palaoro
-    given-names: Alexandre V
+    given-names: Alexandre V.
   journal: "Evolution"
   year: 2026
   doi: "10.1093/evolut/qpaf217"
+  url: "https://academic.oup.com/evolut/article/80/1/202/8286919"
