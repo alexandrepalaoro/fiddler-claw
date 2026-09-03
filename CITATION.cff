@@ -11,7 +11,7 @@ authors: "Code and data for: Allometric constraints and the modulation of weapon
     given-names: Michael S
   - family-names: Palaoro
     given-names: Alexandre V
-license: MIT, CC0-1.0
+license: MIT, CC0
 repository-code: "https://github.com/alexandrepalaoro/fiddler-claw"
 preferred-citation:
   type: article
